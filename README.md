@@ -40,3 +40,7 @@ https://aistudio.google.com/apikey
    python checkdb.py
    python web.py
    Then open http://localhost:5000 in your browser.
+5. **Run the Application**:
+    ``` bash
+   python web.py
+   Then open http://localhost:5000 in your browser.
